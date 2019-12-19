@@ -1,0 +1,59 @@
+{
+    "name": "BigBoulderInitiative",
+    "description": "Big Boulder Initiative is an invite-only conference for the social data industry to learn and grow against the challenges facing the industry.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2940-bigboulderinitiative.jpg",
+    "tags": [
+        "agencies",
+        "have api",
+        "reclaim",
+        "reclaim your domain",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bigboulderinitiative\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BigBoulderInitiative",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2940-bigboulderinitiative.jpg",
+            "humanURL": "http:\/\/bigboulderinitiative.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bigboulderinitiative-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.bigboulderinitiative.org\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/big-boulder-initiative"
+        },
+        {
+            "type": "Email",
+            "url": "mike@bbi.org"
+        },
+        {
+            "type": "Email",
+            "url": "info@bbi.org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bbi"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/bigboulderinitiative.org\/"
+        }
+    ]
+}
